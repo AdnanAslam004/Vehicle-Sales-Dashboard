@@ -63,23 +63,23 @@ The dashboard helps identify sales performance, revenue trends, top-performing b
 
 ### Dashboard Overview
 
-![Dashboard Overview](Dashboard_Screenshots/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ### Sales Analysis
 
-![Sales Analysis](Dashboard_Screenshots/dashboard_sales_analysis.png)
+![Sales Analysis](dashboard_sales_analysis.png)
 
 ### Market Analysis
 
-![Market Analysis](Dashboard_Screenshots/dashboard_market_analysis.png)
+![Market Analysis](dashboard_market_analysis.png)
 
 ### Yearly Trends
 
-![Yearly Trends](Dashboard_Screenshots/dashboard_yearly_trends.png)
+![Yearly Trends](dashboard_yearly_trends.png)
 
 ### Model Analysis
 
-![Model Analysis](Dashboard_Screenshots/dashboard_model_analysis.png)
+![Model Analysis](dashboard_model_analysis.png)
 
 ---
 
